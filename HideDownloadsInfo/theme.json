@@ -1,0 +1,48 @@
+{
+  "name": "Hide Downloads Info",
+  "version": "v1.0",
+  "author": "RConsis",
+  "manifest_version": 9,
+  "id": "dfg4tgs43-h54g-gf44-gg43-dfg4fgs",
+  "inject": {
+    "shared.css": [
+      "bigpicture"
+    ]
+  },
+  "patches": {
+    "Hide Nav Bar Icon": {
+      "type": "checkbox",
+      "values": {
+        "No": {
+          "--hide-bar": [
+            "flex",
+            "bigpicture"
+          ]
+        },
+        "Yes": {
+          "--hide-icon": [
+            "none",
+            "bigpicture"
+          ]
+        }
+      }
+    },
+    "Hide Progress Bar": {
+      "type": "checkbox",
+      "values": {
+        "No": {
+          "--hide-bar": [
+            "flex",
+            "bigpicture"
+          ]
+        },
+        "Yes": {
+          "--hide-bar": [
+            "none",
+            "bigpicture"
+          ]
+        }
+      }
+    }
+  }
+}
