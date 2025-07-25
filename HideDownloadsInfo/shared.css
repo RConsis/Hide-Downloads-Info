@@ -1,11 +1,11 @@
 .Panel[aria-label="View Downloads"] {
-    display: var(--hide-icon) !important;
+    display: var(--rconsis-hide-icon) !important;
 }
 
 ._25YVDTaClw6Y2COPsU0UaV.QyUkuqzAvp-ZDqgTGHAry {
-	display: var(--hide-bar) !important;
+	display: var(--rconsis-hide-bar) !important;
 }
 
 .kX-tIJx4a9vKVuUkKJARv._1wAArO4jx5Kth5YdKAQ_Sd._3BNwjsy5WltxayFptkx3KF {
-	display: var(--hide-bar) !important;
+	display: var(--rconsis-hide-bar) !important;
 }
