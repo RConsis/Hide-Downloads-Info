@@ -14,13 +14,13 @@
       "type": "checkbox",
       "values": {
         "No": {
-          "--hide-bar": [
+          "--rconsis-hide-bar": [
             "flex",
             "bigpicture"
           ]
         },
         "Yes": {
-          "--hide-icon": [
+          "--rconsis-hide-icon": [
             "none",
             "bigpicture"
           ]
@@ -31,13 +31,13 @@
       "type": "checkbox",
       "values": {
         "No": {
-          "--hide-bar": [
+          "--rconsis-hide-bar": [
             "flex",
             "bigpicture"
           ]
         },
         "Yes": {
-          "--hide-bar": [
+          "--rconsis-hide-bar": [
             "none",
             "bigpicture"
           ]
