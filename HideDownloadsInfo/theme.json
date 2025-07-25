@@ -14,7 +14,7 @@
       "type": "checkbox",
       "values": {
         "No": {
-          "--rconsis-hide-bar": [
+          "--rconsis-hide-icon": [
             "flex",
             "bigpicture"
           ]
